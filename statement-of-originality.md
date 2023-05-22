@@ -25,9 +25,38 @@ Add as many "url+licence+comment" entries as necessary
 If you copied (or slightly changed) code from a friend or external website (for example), you must reference it here. Even if you change the variable name or slightly change the functions, it must still be referenced here.
 
 
-  - comment: N/A
-    url: N/A
+  - comment: Elbow method
+    url: https://www.statology.org/elbow-method-in-python/
     licence: N/A
+    
+   - comment: Decision Tree
+   url: https://data36.com/coding-a-decision-tree-in-python-classification-tree-gini-impurity/
+   licence: N/A
+   
+   - comment: Weighted Average
+   url:https://stackoverflow.com/questions/38241174/weighted-average-using-numpy-average
+   licence: N/A
+
+   - comment:Number of samples at each node
+   url:https://scikit-learn-general.narkive.com/n08ccTet/is-there-any-attribute-saying-the-number-of-samples-of-each-class-in-one-decision-tree-node
+   licence: N/A
+   
+   - comment: Elbow Method
+   url: https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
+   licence: N/A
+   
+   - comment: Elbow Method & Silouette Method
+   url: https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/
+   licence: N/A
+   
+   - comment: Silouette Method
+   url: https://vitalflux.com/kmeans-silhouette-score-explained-with-python-example/
+   licence: N/A
+   
+   - comment: Fill null values pandas
+   url: https://www.geeksforgeeks.org/how-to-fill-nan-values-with-mean-in-pandas/
+   licence: N/A
+
 
 
 Add as many "url+licence+comment" entries as necessary
@@ -64,9 +93,17 @@ If you use any external sources to increase your understanding of a topic, or to
 
     Stack Overflow. (n.d.). Converting a Pandas GroupBy output from Series to DataFrame. [online] Available at: https://stackoverflow.com/questions/10373660/converting-a-pandas-groupby-output-from-series-to-dataframe [Accessed 22 May 2023].
 
-    www.oreilly.com. (n.d.). Cover Page - Security in Computing [Book]. [online] Available at: https://www.oreilly.com/library/view/security-in-computing/9780134085074/cover.xhtml [Accessed 22 May 2023].(Chapter 1.2)(Chapter 1.6)
+    www.oreilly.com. (n.d.). Cover Page - Security in Computing [Book]. [online] Available at: https://www.oreilly.com/library/view/security-in-computing/9780134085074/cover.xhtml [Accessed 22 May 2023].(Chapter 1.1)
+    
+    www.oreilly.com. (n.d.). Cover Page - Security in Computing [Book]. [online] Available at: https://www.oreilly.com/library/view/security-in-computing/9780134085074/cover.xhtml [Accessed 22 May 2023].(Chapter 1.6)
+    
+    Jairi, I. (2023). Gini Gain vs Gini Impurity | Decision Tree — A Simple Explanation. [online] Medium. Available at: https://medium.com/@jairiidriss/gini-gain-vs-gini-impurity-decision-tree-a-simple-explanation-a24ebfeebee9 [Accessed 22 May 2023].
 
+    Gupta, A. (2019). Elbow Method for optimal value of k in KMeans. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/.
 
+    Zach (2023). How to Use the Elbow Method in Python to Find Optimal Clusters. [online] Statology. Available at: https://www.statology.org/elbow-method-in-python/.
+
+    
 
 
 ## Sign *your* name and uid here.
